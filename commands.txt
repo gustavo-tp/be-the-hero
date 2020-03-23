@@ -1,0 +1,15 @@
+// ----------- Backend --------------
+
+mkdir backend
+npm init -y
+npm install express
+
+
+// ----------- Frontend --------------
+
+npx create-react-app frontend
+
+
+// ------------ Mobile ---------------
+
+
