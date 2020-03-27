@@ -6,9 +6,9 @@ npm install express
 npm install nodemon -D
 npm install knex
 npm install sqlite3
-npx knex init
 
 	// ---------- Database -----------
+	npx knex init
 	npx knex migrate:make create_ongs
 	npx knex migrate:latest
 	npx knex migrate:make create_incidents
@@ -27,4 +27,13 @@ npm install axios
 
 // ------------ Mobile ---------------
 
+npm install -g expo-cli
+expo init mobile
+npm install @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+expo install expo-constants
+expo install expo-mail-composer
+npm install axios
+npm install intl
 
