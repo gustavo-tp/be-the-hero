@@ -15,6 +15,11 @@ npm install sqlite3
 	npx knex migrate:latest
 
 npm install cors
+npm install celebrate
+npm install jest -D
+npx jest --init (1 - Y, 2 - node, 3 - n, 4 - y) -> npm test para executar testes
+npm install cross-env
+npm install supertest -D
 
 
 // ----------- Frontend --------------
