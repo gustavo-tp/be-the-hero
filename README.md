@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#bethehero" src="logo.svg" width="200px" />
+    <img alt="BeTheHero" title="#bethehero" src="logo.svg" width="200px" />
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## Description
 
-Application designed to find developers geographically close to you and who have the same interests.
+Application that allows people to find and contribute to NGOs.
 
 ### Technologies used
 
