@@ -8,8 +8,6 @@ const SessionController = require('./controllers/SessionController');
 
 const routes = express.Router();
 
-routes.get('/', (req, res) => res.send('Oiii'));
-
 routes.post(
   '/sessions',
   celebrate({
